@@ -1,2 +1,3 @@
 *.zip
 *.oso
+*/__pycache__/*
